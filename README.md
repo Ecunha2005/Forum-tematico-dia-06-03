@@ -1,2 +1,0 @@
-# Forum-tematico-dia-06-03
-Repositório criado para atividade semanal do fórum temático da matéria de RESPONSIVE WEB DEVELOPMENT
